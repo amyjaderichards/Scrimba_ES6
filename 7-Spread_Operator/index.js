@@ -15,4 +15,7 @@ let example1 = {
 
 let example2 = {
     ...example1
-}
+};
+
+// example2 = {firstName: 'Amy'}
+// useful in constructors in TypeScript
